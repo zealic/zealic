@@ -10,3 +10,5 @@
 |        ||  `---.|  | |  | |      |(_|  |  (_'  '--'\  
 `--------'`------'`--' `--' `------'  `--'     `-----'  
 ```
+
+[<img align="right" src="https://github-readme-stats.vercel.app/api?username=zealic&hide_border=true">](#)
